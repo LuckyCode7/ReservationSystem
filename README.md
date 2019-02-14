@@ -1,4 +1,4 @@
-Project name: System rezerwacji
+Project name: ReservationSystem
 
 Project type: GUI application
 
